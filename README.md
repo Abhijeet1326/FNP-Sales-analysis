@@ -1,88 +1,94 @@
-📊 FNP Sales Analysis Dashboard - README
-📝 Overview
-This Excel dashboard provides a comprehensive visual analysis of sales data for FNP (Ferns N Petals). It is designed to help stakeholders quickly understand key sales metrics, customer behavior, and product performance across various dimensions such as occasions, categories, cities, and time.
+# 📊 FNP Sales Analysis Dashboard
 
-📌 Key Metrics
-Total Orders: 1000
+## 📝 Overview
 
-Average Delivery Time: 5.5 days
+This **Excel Dashboard** provides a comprehensive visual analysis of sales data for **FNP (Ferns N Petals)**. It is designed to help stakeholders quickly understand key sales metrics, customer behavior, and product performance across various dimensions such as occasions, categories, cities, and time.
 
-Total Revenue: ₹ 35,20,984
+---
 
-Average Customer Spend: ₹ 3,520.98
+## 📌 Key Metrics
 
-📊 Dashboard Components
-1. Revenue by Occasion
+- **Total Orders**: `1000`
+- **Average Delivery Time**: `5.5 days`
+- **Total Revenue**: `₹ 35,20,984`
+- **Average Customer Spend**: `₹ 3,520.98`
+
+---
+
+## 📊 Dashboard Components
+
+### 1. **Revenue by Occasion**
 Displays total revenue generated from key occasions:
+- Highest: **Birthday** and **Valentine’s Day**
+- Others: **Anniversary**, **Diwali**, **Holi**, **Raksha Bandhan**
 
-Highest: Birthday and Valentine’s Day
-
-Other occasions include Anniversary, Diwali, Holi, Raksha Bandhan
-
-2. Revenue by Category
+### 2. **Revenue by Category**
 Shows revenue distribution across product categories:
+- Highest: **Colors** and **Sweets**
+- Others: **Cake**, **Mugs**, **Plants**, **Soft Toys**, **Raksha Bandhan**
 
-Highest revenue: Colors and Sweets
-
-Other categories: Cake, Mugs, Plants, Soft Toys, Raksha Bandhan
-
-3. Top 10 Cities by Orders
+### 3. **Top 10 Cities by Orders**
 Highlights cities with the highest number of orders:
+- Top cities include: `Imphal`, `Dhanbad`, `Kavali`, `Haridwar`, `Bidhanagar`, `Dibrugarh`, `Gunttakal`, `North Dumdum`, `Bilaspur`, `Bhatpara`
 
-Top cities include Imphal, Dhanbad, Kavali, Haridwar, etc.
+### 4. **Revenue by Month**
+Monthly sales trends with noticeable spikes in:
+- **February**
+- **August**
+- **October**
 
-4. Revenue by Month
-Monthly sales trends, indicating seasonal peaks:
+### 5. **Top 5 Products by Revenue**
+Top-performing products visualized via a pie chart:
+- 🥇 **Magnum Set** - ₹ 1,21,905  
+- 🥈 **Quia Gift** - ₹ 1,14,476  
+- 🥉 **Dolores Gift** - ₹ 1,06,624  
+- **Harum Pack** - ₹ 1,01,556  
+- **Deserunt Box** - ₹ 97,665
 
-Spikes observed in February, August, and October
+### 6. **Revenue by Hour**
+Hourly revenue trend helps identify peak ordering hours.
 
-5. Top 5 Products by Revenue
-Pie chart showing the top-performing products:
+---
 
-Magnum Set (₹ 1,21,905)
+## 📅 Filters and Slicers
 
-Quia Gift, Dolores Gift, Harum Pack, Deserunt Box
+- **Occasion Selector**: Filter dashboard by occasion
+- **Order Date (2023)**: Filter orders by month
+- **Delivery Date (2024)**: Filter deliveries by timeline
 
-6. Revenue by Hour
-Hourly analysis of revenue, helping identify peak shopping hours
+---
 
-📅 Filters and Slicers
-Occasion Selector: Filter data by specific occasions
+## 🛠 How to Use
 
-Order Date (2023): Monthly filter for order dates
+1. Open the file in **Microsoft Excel** (preferably 2016 or later).
+2. Use the **slicers on the right panel** to:
+   - Filter by Occasion
+   - Select specific Order and Delivery Dates
+3. Hover over charts for precise values.
+4. Analyze and interpret the trends for data-driven decisions.
 
-Delivery Date (2024): Timeline slicer for delivery data
+---
 
-🛠 How to Use
-Open the Excel file in Microsoft Excel (preferably 2016 or later).
+## 🎯 Purpose
 
-Use slicers on the right-hand panel to filter data by:
+This dashboard is ideal for:
 
-Occasion
+- **Sales Teams**: Tracking performance metrics
+- **Marketing Teams**: Planning based on high-demand periods
+- **Analysts**: Gaining customer insights
+- **Management**: Strategic decision-making
 
-Order Date
+---
 
-Delivery Date
+## 📂 File Information
 
-Hover over any chart element to view specific values.
+- **File Type**: `.xlsx` (Excel Workbook)
+- **Data Coverage**: Orders from 2023, Deliveries in 2024
+- **Tech Used**: Excel PivotTables, Charts, Slicers
 
-Analyze trends and performance across different dimensions.
+---
 
-📌 Purpose
-This dashboard is useful for:
+## 📩 Feedback or Suggestions?
 
-Sales teams: Monitoring performance
-
-Marketing teams: Planning campaigns around high-performing occasions and times
-
-Business analysts: Identifying customer and regional trends
-
-Top management: Making data-driven decisions
-
-📂 File Information
-File Type: Excel (.xlsx)
-
-Data Year: Orders from 2023, Deliveries in 2024
-
-Designed With: Pivot Tables, Charts, and Slicers
+Feel free to reach out or contribute improvements if you'd like to enhance the dashboard experience!
 
