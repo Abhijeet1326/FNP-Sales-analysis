@@ -1,5 +1,8 @@
 # 📊 FNP Sales Analysis Dashboard
 
+![image](https://github.com/user-attachments/assets/9b7d5b22-f63c-445b-9c86-f3743ba6a2c5)
+
+
 ## 📝 Overview
 
 This **Excel Dashboard** provides a comprehensive visual analysis of sales data for **FNP (Ferns N Petals)**. It is designed to help stakeholders quickly understand key sales metrics, customer behavior, and product performance across various dimensions such as occasions, categories, cities, and time.
